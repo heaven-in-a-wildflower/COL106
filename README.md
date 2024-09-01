@@ -1,1 +1,1 @@
-Welcome to my COL106 repository for 2023-24 Semester 1 which includes the assignments undertaken as part of the course.
+This repository contains the assigments undertaken as part of the  COL106 Data Structures and Algorithms course, done during Fall Semester in 2023.
