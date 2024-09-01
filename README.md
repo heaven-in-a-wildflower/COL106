@@ -1,1 +1,1 @@
-This repository contains the assigments undertaken as part of the  COL106 Data Structures and Algorithms course, done during Fall Semester in 2023.
+This repository contains the assigments undertaken as part of the  COL106 Data Structures and Algorithms course, done during Fall Semester in 2023. As a general suggestion, do not delve into theory too a great extent, do only as much is required. Future courses in algorithms will take care of the same.
